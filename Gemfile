@@ -5,6 +5,8 @@ gem 'rails', '3.2.9'
 gem 'bigdecimal'
 gem 'activerecord'
 gem 'minitest'
+gem 'bootstrap-sass', '2.1'
+gem 'bcrypt-ruby', '3.0.1'
 
 group :development, :test do
   gem 'sqlite3', '1.3.6'
